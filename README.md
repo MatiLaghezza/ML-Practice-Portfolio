@@ -22,27 +22,6 @@ The goal is to document the learning journey from zero experience to a confident
 
 Each lab is included as a separate notebook with explanations and code.
 
----
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.7 or higher  
-- Jupyter Notebook or JupyterLab  
-- Required Python packages listed in `requirements.txt`
-
-### Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/ML-Practice-Portfolio.git
-   cd ML-Practice-Portfolio
-
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
 Usage
 Explore each notebook to understand and run different machine learning models step-by-step. The notebooks include data loading, model training, evaluation, and visualization.
 
